@@ -6,4 +6,6 @@
 
 `sudo cp donut /usr/bin/donut`
 
-<a href="(https://www.a1k0n.net/2011/07/20/donut-math.html" target="_blank">Original Post</a>
+## Original Post
+
+[Link](https://www.a1k0n.net/2011/07/20/donut-math.html)
