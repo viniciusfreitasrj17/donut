@@ -8,4 +8,4 @@
 
 ## Original Post
 
-[Link](https://www.a1k0n.net/2011/07/20/donut-math.html){:target="_blank"}
+[Link](https://www.a1k0n.net/2011/07/20/donut-math.html)
