@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.env.development": "env",
+    "*.env.production": "env",
+    "*.env.example": "env",
+    "*.env.development.example": "env",
+    "*.env.production.example": "env",
+    "stdio.h": "c"
+  }
+}
