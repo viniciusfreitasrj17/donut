@@ -1,3 +1,7 @@
 # Compile
 
-`gcc -Wall -lm donut_deobfuscated.c -o donut_deobfuscated`
+`gcc -Wall -lm donut.c -o donut`
+
+## Add in bin (Linux)
+
+`sudo cp donut /usr/bin/donut`
